@@ -1,0 +1,21 @@
+MinGW_Library
+
+1. List Libraries:
+• Free GLUT
+• GLEW
+• GLFW
+• GLUT
+2. Graphics BGI
+• SDL2
+• SDL2_image
+• SDL2_mixer
+
+Setup:
+x86:
+Copy all files in folder include to MinGW include folder
+Copy all files in folder lib to MinGW lib32 folder
+Copy all files in folder bin to Windows folder
+x64:
+Copy all files in folder include to MinGW include folder
+Copy all files in folder lib to MinGW lib folder
+Copy all files in folder bin to Windows folder
